@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-movie/static/css/main.5648ffd7.css",
+    "main.js": "/react-movie/static/js/main.d484dff9.js",
+    "static/media/popcon.png": "/react-movie/static/media/popcon.3484710f3219819828da.png",
+    "index.html": "/react-movie/index.html",
+    "main.5648ffd7.css.map": "/react-movie/static/css/main.5648ffd7.css.map",
+    "main.d484dff9.js.map": "/react-movie/static/js/main.d484dff9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5648ffd7.css",
+    "static/js/main.d484dff9.js"
+  ]
+}
